@@ -5,6 +5,7 @@ Disclaimer/Aviso Legal: Este notebook tem um fim única e exclusivamente didáti
 Análise de dados feito pelos alunos:
 - Larissa Miho 
 - Ângelo Lima
+
 3º Semestre - ADS
 
 Feito análise sobre Saúde Mental com pessoas registradas da Open Sourcing Mental Illness de 2014. Sendo elas:
